@@ -1,0 +1,1 @@
+Double-click the "Fix TMT isotope impurities.bat" file to run the script.  Store TMT lot number pdf files in the indicated folder.
